@@ -10,7 +10,7 @@ public class StatusController {
 
 	@GetMapping("")
 	public String status() {
-		return "API no ar!";
+		return "All Services On Air!";
 	}
 	
 }
